@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /Template-pert4/
+RewriteBase /template-pert4/
 
 # Remove the 'index.php' part from the URL
 RewriteCond %{REQUEST_FILENAME} !-f
